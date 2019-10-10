@@ -63,7 +63,13 @@ Jekyll Theme을 수정하여 나만의 블로그를 만드는 방법은 [디자�
   - [추천 테마] (https://isme2n.github.io/devlog/2017/03/09/Blog-Jekyll-theme/)
     - [Jasper2]() 선택 - Jasper를 추천하는데, 최근에 Jasper2가 나왔음.
     - GitHub에서 plugin을 지원하지 않으므로 로컬에서 빌드해서 _site/ 폴더를 올려야 함
-  
+  - Jastper2를 clone해서 godsman-yang.github.io 에 올렸음
+    - CSS, JS가 정상적으로 동작하지 않아서 화면이 파란글씨로 디자인이 맞지 않게 나옴
+    - 개발자도구에서 오류가 난 부분을 확인합니다.
+    - _config.yml 에서 baseurl: /jasper2/ 에서 jasper2/를 지우고 / 로 변경합니다.
+      - 화면이 제대로 나오고 오류가 3개로 줄어들었습니다.
+      - uncaught ReferenceError: Prism is not defined at prism-abap.min.js:1
+      - GET https://godsman-yang.github.ioassets/images/favicon.png net::ERR_NAME_NOT_RESOLVED
 
 ## 추가 정보
 * 윈도우에 jekyll 설치하기
