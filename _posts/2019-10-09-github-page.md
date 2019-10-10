@@ -70,16 +70,18 @@ Jekyll Theme을 수정하여 나만의 블로그를 만드는 방법은 [디자�
       - 화면이 제대로 나오고 오류가 3개로 줄어들었습니다.
       - uncaught ReferenceError: Prism is not defined at prism-abap.min.js:1
         - 해결안됨.
-        - about 페이지 깨짐 발생 -> local build 진행
+        - About 페이지 깨짐 발생 -> local build 진행
       - GET https://godsman-yang.github.ioassets/images/favicon.png net::ERR_NAME_NOT_RESOLVED
-        - _config.yml 에 url: 이 없었음. url: godsman-yang.github.io 추가 후 해결됨
+        - _config.yml 에 url: 이 없었음. url: https://godsman-yang.github.io/ 추가 후 해결됨
     - local build
       - bundle install --path ./vendor/bundle
       - bundle exec jekyll serve
         - local 에서는 about 페이지 깨지지 않음.
-      - _site 폴더 생성 안됨, jekyll build를 실행해야 함.
-      - jekyll build # error 발생 - gem update 실행
-      - sudo gem update # 오래 걸림
+  - About page가 깨지는 형태로 일단 운영
+    [Jasper2](https://github.com/jekyller/jasper2/watchers) 깃허브에 이슈로 등록
+* 블로그 올리기
+  - _posts 폴더 아래에 md 파일 업로드
+  - YYYY-MM-DD-title.md 파일 작성
 
 ## 추가 정보
 * 윈도우에 jekyll 설치하기
