@@ -82,6 +82,7 @@ PS C:\작업\hongong-python> python 02-1-5.py
 
 ## 선택 미션
 모르는 용어(3~5개) 찾아 혼공 용어 노트에 정리하고 인증샷
+한글로 제공되는 [파이썬 3.7 용어집(https://docs.python.org/ko/3/glossary.html#glossary)도 참고해 보세요.
 
 #### 인터프리터
 * 프로그래밍 언어의 소스 코드를 바로 실행하는 컴퓨터 프로그램 또는 환경
