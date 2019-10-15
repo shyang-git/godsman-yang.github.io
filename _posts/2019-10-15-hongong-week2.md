@@ -11,7 +11,7 @@ categories: coding
 
 #### 137쪽 3번
 사용자에게 태어난 연도를 입력받아 띠를 출력하는 프로그램을 작성해 주세요. 작성 시 입력받은 연도를 12로 나눈 나머지를 사용합니다. 나머지가 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11일때 각각 원숭이, 닭, 개, 돼지, 쥐, 소, 범, 토끼, 용, 뱀, 말, 양띠입니다.
-[미션 소스](https://github.com/godsman-yang/hongong-python/blob/master/03-2-3.py)와 [리팩토링 소스](https://github.com/godsman-yang/hongong-python/blob/master/03-2-3-rf.py)를 참고하세요.
+* [미션 소스](https://github.com/godsman-yang/hongong-python/blob/master/03-2-3.py)와 [리팩토링 소스](https://github.com/godsman-yang/hongong-python/blob/master/03-2-3-rf.py)를 참고하세요.
 
 ```python
 str_input = input("태어난 해를 입력해 주세요> ")
@@ -43,7 +43,7 @@ elif(birth_year%12) == 11:
     print("양 띠입니다.")
 ```
 
-코드분석
+#### 코드분석
 책의 예제는 elif를 설명하기에 충분하다.
 실제 제품이나 서비스를 개발할 경우를 생각해서 몇가지 개선사항(리팩토링)을 생각해 본다.
 * birth_year에 따라 비교문의 개수가 다르다.
@@ -56,9 +56,11 @@ elif(birth_year%12) == 11:
   - 출력되는 문자열은 "{연산한 띠} 띠입니다."
   - 띠는 사전에 정의되어 있음
 
-리팩토링
-* 띠는 튜플로 저장
-* 나머지 연산의 결과를 튜플의 인덱스로 사용
+#### 리팩토링
+* 띠는 값이 변하지 않는 튜플로 저장
+* 나머지 연산은 한번만 실행, 결과를 튜플의 인덱스로 사용
+* 출력은 한번만 ```"{연산한 띠} 띠입니다."```
+
 ```python
 chinese_zodiac_sign = ('원숭이', '닭', '개', '돼지', '쥐', '소', '범', '토끼', '용', '뱀', '말', '양')
 
