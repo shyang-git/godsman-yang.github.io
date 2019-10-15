@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '혼자 공부하는 파이썬 - 2주차 미션'
-date: 2019-10-14 09:00
+date: 2019-10-15 09:00
 categories: coding
 ---
 
