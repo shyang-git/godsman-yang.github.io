@@ -2,7 +2,11 @@
 layout: post
 title: '혼자 공부하는 파이썬 - 1주차 미션'
 date: 2019-10-09 21:00
-categories: coding
+categories: [language, python]
+# os, windows, linux, 
+# service, github
+# language, python, c
+# etc, blog
 ---
 
 # 1 주차

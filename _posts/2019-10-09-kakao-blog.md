@@ -2,7 +2,11 @@
 layout: post
 title: 'GitHub 페이지에서 카카오 기술 블로그 복사해서 적용하기'
 date: 2019-10-09 01:30
-categories: blog
+categories: [github, blog]
+# os, windows, linux, 
+# service, github
+# language, python, c
+# etc, blog
 ---
 
 GitHub 페이지를 만들었다.

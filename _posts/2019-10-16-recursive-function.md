@@ -2,7 +2,11 @@
 layout: post
 title: 'recursive function - 재귀함수'
 date: 2019-10-16 23:00
-categories: coding
+categories: [language, python]
+# os, windows, linux, 
+# service, github
+# language, python, c
+# etc, blog, jekyll
 ---
 
 # recursive function - 재귀함수

@@ -2,7 +2,11 @@
 layout: post
 title: 'GitHub Page 만들기'
 date: 2019-10-09 11:00
-categories: blog
+categories: github
+# os, windows, linux, 
+# service, github
+# language, python, c
+# etc, blog
 ---
 
 소스 관리를 위해서 깃허브를 사용합니다. 관리보다는 여러 장비와 위치에서 소스 공유를 위해서 사용해봤습니다.

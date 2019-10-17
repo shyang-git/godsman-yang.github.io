@@ -2,7 +2,11 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2019-10-09 11:22:54 +0900
-categories: jekyll update
+categories: [github, blog, jekyll]
+# os, windows, linux, 
+# service, github
+# language, python, c
+# etc, blog, jekyll
 ---
 Jekyll new로 생성하면 제공하는 글입니다. 내용을 알아둘 필요가 있어서 [영어 원문](https://godsman-yang.github.io/jekyll/update/2019/10/09/welcome-to-jekyll.html)을 구글 자동 번역한 내용으로 변경해서 남겨 놓았습니다.
 
