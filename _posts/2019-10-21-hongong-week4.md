@@ -16,6 +16,8 @@ categories: [language, python]
 
 ## 기본 미션
 223쪽 [직접 해보는 손코딩: 범위 내부의 정수를 모두 더하는 함수] 실행 후 코드가 입력된 화면 및 실행결과 화면 인증샷
+
+입력된 화면
 ```python
 # 함수를 선언합니다.
 def sum_all(start, end):
@@ -29,6 +31,12 @@ def sum_all(start, end):
 start = 1
 end = 1001
 print("sum_all({}, {}) 결과: {}".format(start, end, sum_all(start, end)))
+```
+
+실행결과
+```bash
+/Users/shyang/work/hongong-python/sum_all_basic.py
+sum_all(1, 1001) 결과: 500500
 ```
 
 ## 선택미션
