@@ -31,6 +31,7 @@ print("-" * 8)
 PS C:\작업\hongong-python> python 02-1-3.py
 # 연습문제
 \\\\
+--------
 ```
 
 #### 63쪽 4번
