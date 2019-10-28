@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '혼자 공부하는 파이썬 - 스터디 노트'
+title: '혼자 공부하는 파이썬 - 혼공 노트'
 date: 2019-10-09 01:50
 categories: language
 # os, windows, linux, 
