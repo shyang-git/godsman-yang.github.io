@@ -39,7 +39,10 @@ print("500 to 1000:", sum_all(500, 1000))
 실행결과
 ```bash
 /Users/shyang/work/hongong-python/sum_all_basic.py
-sum_all(1, 1001) 결과: 500500
+0 to 100: 5050
+0 to 1000: 500500
+50 to 100: 3825
+500 to 1000: 375750
 ```
 
 ## 선택미션
