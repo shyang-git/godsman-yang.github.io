@@ -9,6 +9,9 @@
 # webstorm
 .idea/
 
+# vscode
+.vscode/
+
 # others
 *.swp
 
