@@ -83,3 +83,32 @@ int("안녕하세요") #2 예외-ValueError
 cursor.close) #3 구문 오류
 [1, 2, 3, 4, 5][10] #4 예외-IndexError
 ```
+
+```python
+>>> output = 10 + "개"
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+```
+
+```python
+>>> int("안녕하세요")
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+ValueError: invalid literal for int() with base 10: '안녕하세요'
+```
+
+```python
+>>> cursor.close)
+  File "<stdin>", line 1
+    cursor.close)
+                ^
+SyntaxError: invalid syntax
+```
+
+```python
+>>> [1, 2, 3, 4, 5][10] #4 예외-IndexError
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+IndexError: list index out of range
+```
