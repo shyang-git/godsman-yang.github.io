@@ -23,7 +23,7 @@ categories: [language, python]
 - 예외(Exception)
 
 #### 구문 오류(Syntax Error)
-코드에 문제가 있어서 실행 자체가 되지 않는 문제
+코드에 문제가 있어서 실행 자체가 되지 않는 오류
 - 실행 전에 발생한다
 - 문법적인 문제를 해결해서 해결할 수 있다
 - SyntaxError
@@ -33,9 +33,9 @@ categories: [language, python]
 코드 자체 문법적인 오류는 없지만 실행과 관련된 문제
 - 실행 후에 발생한다
 - 예외처리를 통해서 해결할 수 있다.
-- 예외는 일단 실행은 된다. 실행 시 예외 발생 위치에서 프로그램이 죽는다.
+- 예외(Exception)는 일단 실행은 된다. 실행 시 예외 발생 위치에서 프로그램이 죽는다.
 - 예외를 처리하는 기본적인 방법
-  - 조건문을 사용하여 예외를 발생하지 않는 경우에만 프로그램이 동작하도록 코딩한다
+  - 조건문을 사용하여 예외를 발생하지 않는 경우에만 프로그램이 동작하도록 코딩한다(C/C++ 의 null check 구문)
   - 모든 예외를 미리 예측하는 것이 어려우므로 예외처리 전용 구문을 활용한다
 
 #### 예외처리 전용 구문 try-except
@@ -84,6 +84,8 @@ cursor.close) #3 구문 오류
 [1, 2, 3, 4, 5][10] #4 예외-IndexError
 ```
 
+TypeError 발생 - 숫자와 문자열에 '+' 연산하려고 할 때
+- 숫자를 문자열로 변환한 후에 사용한다. str(숫자)
 ```python
 >>> output = 10 + "개"
 Traceback (most recent call last):
@@ -91,6 +93,9 @@ Traceback (most recent call last):
 TypeError: unsupported operand type(s) for +: 'int' and 'str'
 ```
 
+ValueError 발생 - 숫자가 아닌 문자를 숫자로 변환하려고 할 때
+- 문자열이 숫자(digit)로만 이루어져있는지 확인 - isdecimal < isdigit < isnumeric
+- int() 함수로 변환하려면 isdecimal()이 안전함 - "12345".isdecimal()
 ```python
 >>> int("안녕하세요")
 Traceback (most recent call last):
@@ -98,6 +103,7 @@ Traceback (most recent call last):
 ValueError: invalid literal for int() with base 10: '안녕하세요'
 ```
 
+SyntaxError 발생 - 문법 오류 발생
 ```python
 >>> cursor.close)
   File "<stdin>", line 1
@@ -106,6 +112,7 @@ ValueError: invalid literal for int() with base 10: '안녕하세요'
 SyntaxError: invalid syntax
 ```
 
+IndexError 발생 - 없는 인덱스를 접근하려고 할 때
 ```python
 >>> [1, 2, 3, 4, 5][10] #4 예외-IndexError
 Traceback (most recent call last):
