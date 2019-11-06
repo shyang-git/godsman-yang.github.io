@@ -47,7 +47,7 @@ def hello():
 ```
 
 결과 화면
-![결과화면](assets/images/beautiful_flask.jpg))
+![결과화면](assets/images/beautiful_flask.jpg)
 
 ## 선택미션
 혼공 용어 노트에 나만의 언어로 객체, 클래스, 인스턴스, 생성자, 메소드 보충 설명쓰고 인증샷
