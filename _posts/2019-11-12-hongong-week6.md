@@ -96,6 +96,7 @@ def hello():
 * 클래스 내부의 (멤버)변수에 접근이 가능한 함수이다
 
 ## 혼자 공부하는 프로그래밍 - 파이썬
+혼자 공부하는 프로그래밍 [파이썬-소개](https://godsman-yang.github.io/hongong-python)와 미션을 정리했습니다.
 * [1주차 미션](https://godsman-yang.github.io/hongong-week1) 
 * [2주차 미션](https://godsman-yang.github.io/hongong-week2) 
 * [3주차 미션](https://godsman-yang.github.io/hongong-week3) 
