@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '혼자 공부하는 파이썬 - 6주차 미션'
-date: 2019-11-11 20:00
+date: 2019-11-12 08:00
 categories: [language, python]
 # os, windows, linux, 
 # service, github
