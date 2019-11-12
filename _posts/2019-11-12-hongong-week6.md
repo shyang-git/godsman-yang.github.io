@@ -94,3 +94,11 @@ def hello():
 추가 설명
 * 클래스에서 사용할 수 있는 함수. 언어에 따라 멤버 함수나 인스턴스 함수라고 하기도 한다.
 * 클래스 내부의 (멤버)변수에 접근이 가능한 함수이다
+
+## 혼자 공부하는 프로그래밍 - 파이썬
+* [1주차 미션](https://godsman-yang.github.io/hongong-week1) 
+* [2주차 미션](https://godsman-yang.github.io/hongong-week2) 
+* [3주차 미션](https://godsman-yang.github.io/hongong-week3) 
+* [4주차 미션](https://godsman-yang.github.io/hongong-week4) 
+* [5주차 미션](https://godsman-yang.github.io/hongong-week5) 
+* [6주차 미션](https://godsman-yang.github.io/hongong-week6) 
