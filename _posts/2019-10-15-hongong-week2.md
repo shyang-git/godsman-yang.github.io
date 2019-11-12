@@ -96,3 +96,15 @@ else 구문과 elif 구문 정리한 내용 포스팅하기
 * if-else if-else/if-elif-else
 * switch-case - 파이썬에는 없고, C/C++, Java에서 지원
 * 참고 [위키백과 조건문](https://ko.wikipedia.org/wiki/%EC%A1%B0%EA%B1%B4%EB%AC%B8)
+
+## 혼자 공부하는 프로그래밍 - 파이썬
+혼자 공부하는 프로그래밍 [파이썬-소개](https://godsman-yang.github.io/hongong-python)와 미션을 정리했습니다.
+* [1주차 미션](https://godsman-yang.github.io/hongong-week1) 
+* [2주차 미션](https://godsman-yang.github.io/hongong-week2) 
+* [3주차 미션](https://godsman-yang.github.io/hongong-week3) 
+* [4주차 미션](https://godsman-yang.github.io/hongong-week4) 
+* [5주차 미션](https://godsman-yang.github.io/hongong-week5) 
+* [6주차 미션](https://godsman-yang.github.io/hongong-week6) 
+
+## 미션 외 자료 정리
+[혼공 노트](https://godsman-yang.github.io/hongong-note)

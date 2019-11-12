@@ -188,3 +188,15 @@ list_a = [0, 1, 2, 3, 4, 5, 6, 7]입니다. 다음 표의 함수들을 실행했
 ```
 
 [혼자 공부하는 파이썬 18강 - 리스트 기본](https://youtu.be/dYykqm41jfY)
+
+## 혼자 공부하는 프로그래밍 - 파이썬
+혼자 공부하는 프로그래밍 [파이썬-소개](https://godsman-yang.github.io/hongong-python)와 미션을 정리했습니다.
+* [1주차 미션](https://godsman-yang.github.io/hongong-week1) 
+* [2주차 미션](https://godsman-yang.github.io/hongong-week2) 
+* [3주차 미션](https://godsman-yang.github.io/hongong-week3) 
+* [4주차 미션](https://godsman-yang.github.io/hongong-week4) 
+* [5주차 미션](https://godsman-yang.github.io/hongong-week5) 
+* [6주차 미션](https://godsman-yang.github.io/hongong-week6) 
+
+## 미션 외 자료 정리
+[혼공 노트](https://godsman-yang.github.io/hongong-note)

@@ -76,3 +76,15 @@ print 함수처럼 매개 변수의 개수가 다양할 수 있다. 가변 매�
 print() 함수 참고
 - 가변 매개변수와 기본 매개변수를 사용할 경우에 변수의 이름과 값을 전달하면 된다.
 - 키워드 매개변수는 위치와 관계없이 입력 가능하다
+
+## 혼자 공부하는 프로그래밍 - 파이썬
+혼자 공부하는 프로그래밍 [파이썬-소개](https://godsman-yang.github.io/hongong-python)와 미션을 정리했습니다.
+* [1주차 미션](https://godsman-yang.github.io/hongong-week1) 
+* [2주차 미션](https://godsman-yang.github.io/hongong-week2) 
+* [3주차 미션](https://godsman-yang.github.io/hongong-week3) 
+* [4주차 미션](https://godsman-yang.github.io/hongong-week4) 
+* [5주차 미션](https://godsman-yang.github.io/hongong-week5) 
+* [6주차 미션](https://godsman-yang.github.io/hongong-week6) 
+
+## 미션 외 자료 정리
+[혼공 노트](https://godsman-yang.github.io/hongong-note)

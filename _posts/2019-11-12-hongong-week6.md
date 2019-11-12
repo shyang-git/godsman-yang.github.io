@@ -103,3 +103,6 @@ def hello():
 * [4주차 미션](https://godsman-yang.github.io/hongong-week4) 
 * [5주차 미션](https://godsman-yang.github.io/hongong-week5) 
 * [6주차 미션](https://godsman-yang.github.io/hongong-week6) 
+
+## 미션 외 자료 정리
+[혼공 노트](https://godsman-yang.github.io/hongong-note)

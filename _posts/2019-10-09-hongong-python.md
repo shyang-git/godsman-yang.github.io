@@ -44,14 +44,23 @@ categories: [language, python]
 * 매개변수, 기본 매개변수, 가변 매개변수에 대해 간략하게 정리한 내용 포스팅하기
 
 #### 5주차
-* 6장~7장 7-1
+* [6장~7장 7-1](https://godsman-yang.github.io/hongong-week5)
 * 구문 오류와 예외의 차이 설명하기(291쪽 1번 문제)
 * 293쪽 3번 문제 풀고 인증샷
 
 #### 6주차
-* 7장 7-2~8장
+* [7장 7-2~8장](https://godsman-yang.github.io/hongong-week6)
 * 342쪽의 [직접 해보는 손코딩:BeautifulSoup 스크레이핑 실행하기] 예제 실행 후 결과 화면 인증샷
 * 혼공 용어 노트에 나만의 언어로 객체, 클래스, 인스턴스, 생성자, 메소드 보충 설명쓰고 인증샷
 
+## 혼자 공부하는 프로그래밍 - 파이썬
+혼자 공부하는 프로그래밍 [파이썬-소개](https://godsman-yang.github.io/hongong-python)와 미션을 정리했습니다.
+* [1주차 미션](https://godsman-yang.github.io/hongong-week1) 
+* [2주차 미션](https://godsman-yang.github.io/hongong-week2) 
+* [3주차 미션](https://godsman-yang.github.io/hongong-week3) 
+* [4주차 미션](https://godsman-yang.github.io/hongong-week4) 
+* [5주차 미션](https://godsman-yang.github.io/hongong-week5) 
+* [6주차 미션](https://godsman-yang.github.io/hongong-week6) 
+
 ## 미션 외 자료 정리
-* [혼공 노트](https://godsman-yang.github.io/hongong-note)
+[혼공 노트](https://godsman-yang.github.io/hongong-note)

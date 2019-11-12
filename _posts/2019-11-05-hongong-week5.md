@@ -119,3 +119,15 @@ Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 IndexError: list index out of range
 ```
+
+## 혼자 공부하는 프로그래밍 - 파이썬
+혼자 공부하는 프로그래밍 [파이썬-소개](https://godsman-yang.github.io/hongong-python)와 미션을 정리했습니다.
+* [1주차 미션](https://godsman-yang.github.io/hongong-week1) 
+* [2주차 미션](https://godsman-yang.github.io/hongong-week2) 
+* [3주차 미션](https://godsman-yang.github.io/hongong-week3) 
+* [4주차 미션](https://godsman-yang.github.io/hongong-week4) 
+* [5주차 미션](https://godsman-yang.github.io/hongong-week5) 
+* [6주차 미션](https://godsman-yang.github.io/hongong-week6) 
+
+## 미션 외 자료 정리
+[혼공 노트](https://godsman-yang.github.io/hongong-note)

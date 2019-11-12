@@ -113,3 +113,15 @@ PS C:\작업\hongong-python> python 02-1-5.py
 * 문자열 내부에서 특수한 기능을 수행하는 문자열
 * 시퀀스를 따르는 문자들로서 다음 문자가 특수 문자임을 알리는 백슬래시(\)를 사용한다. 
 * 일부 제어 시퀀스인 이스케이프 문자들은 미리 예약되어있다. 
+
+## 혼자 공부하는 프로그래밍 - 파이썬
+혼자 공부하는 프로그래밍 [파이썬-소개](https://godsman-yang.github.io/hongong-python)와 미션을 정리했습니다.
+* [1주차 미션](https://godsman-yang.github.io/hongong-week1) 
+* [2주차 미션](https://godsman-yang.github.io/hongong-week2) 
+* [3주차 미션](https://godsman-yang.github.io/hongong-week3) 
+* [4주차 미션](https://godsman-yang.github.io/hongong-week4) 
+* [5주차 미션](https://godsman-yang.github.io/hongong-week5) 
+* [6주차 미션](https://godsman-yang.github.io/hongong-week6) 
+
+## 미션 외 자료 정리
+[혼공 노트](https://godsman-yang.github.io/hongong-note)
