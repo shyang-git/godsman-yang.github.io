@@ -124,7 +124,7 @@ E * * * * *
 
 ## 실행결과
 
-```bash
+```cmd
 > python columnar-transposition.py
 Input original text(default 'WEAREDISCOVEREDFLEEATONCE):
 plain_text:  WEAREDISCOVEREDFLEEATONCE
