@@ -122,21 +122,22 @@ def fibonacci_python(num):
 재귀함수에서 한번 계산한 값을 기억해서 다시 계산하는 방법을 메모이제이션이라고 한다. 메모이제이션을 적용하면 77번 호출로 줄어든다. 그래도 반복문보다 느리다.
 
 ```
+vscode@fc2e241b2660:/workspaces/vscode-remote-try-python$ python fibonacci.py
 Enter number for fibonacci> 40
 
 function call count(calc): 1
-elaspsed time(calc): 1.811981201171875e-05
+elaspsed time(calc): 3.504753112792969e-05
 result: 102334155
 
 function call count(recursive): 331160281
-elaspsed time(recursive): 82.3062391281128
+elaspsed time(recursive): 219.4066867828369
 result: 102334155
 
 function call count(memo): 77
-elaspsed time(memo): 4.673004150390625e-05
+elaspsed time(memo): 9.512901306152344e-05
 result: 102334155
 
 function call count(python): 1
-elaspsed time(python): 8.106231689453125e-06
+elaspsed time(python): 1.430511474609375e-05
 result: 102334155
 ```
