@@ -10,6 +10,7 @@
 .idea/
 
 # vscode
+# .devcontainer/
 .vscode/
 
 # others
