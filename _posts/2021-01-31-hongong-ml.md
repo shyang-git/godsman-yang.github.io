@@ -62,10 +62,5 @@ categories: [language, python, machine learning, deep learning]
 혼자 공부하는 프로그래밍 [머신러닝+딥러닝-소개](https://godsman-yang.github.io/hongong-ml)와 미션을 정리했습니다.
 
 - [1주차 미션](https://godsman-yang.github.io/hongong-ml-week1)
-- [2주차 미션](https://godsman-yang.github.io/hongong-ml-week2)
-- [3주차 미션](https://godsman-yang.github.io/hongong-ml-week3)
-- [4주차 미션](https://godsman-yang.github.io/hongong-ml-week4)
-- [5주차 미션](https://godsman-yang.github.io/hongong-ml-week5)
-- [6주차 미션](https://godsman-yang.github.io/hongong-ml-week6)
 
 ## 미션 외 자료 정리
