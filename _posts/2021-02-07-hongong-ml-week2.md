@@ -18,7 +18,7 @@ author: godsman-yang
 
 #### 3-1절 2번 문제 출력 그래프 인증샷
 
-![2번 문제 코드]](./assets/images/hongong-ml-week2-1.jpg)
+![2번 문제 코드](./assets/images/hongong-ml-week2-1.jpg)
 
 ![2번 문제 그래프](./assets/images/hongong-ml-week2-2.jpg)
 
