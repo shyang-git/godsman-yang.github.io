@@ -1,3 +1,14 @@
+godsman-yang:
+  username: godsman
+  name: godsman
+  url_full: https://godsman-yang.github.io/
+  url: godsman-yang.github.io/
+  bio: network security, cloud service platform, business process management
+  picture:
+  facebook:
+  twitter:
+  cover: False
+
 ghost:
   username: ghost
   name: Ghost

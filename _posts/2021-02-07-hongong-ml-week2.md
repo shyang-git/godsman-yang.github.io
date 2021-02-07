@@ -7,6 +7,7 @@ categories: [language, python, machine learning, deep learning]
 # service, github
 # language, python, c
 # etc, machie learning, deep learning, blog
+author: godsman-yang
 ---
 
 # 2 주차
