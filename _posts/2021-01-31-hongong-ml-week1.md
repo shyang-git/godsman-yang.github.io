@@ -48,3 +48,4 @@ categories: [language, python, machine learning, deep learning]
 
 - [1주차 미션](https://godsman-yang.github.io/hongong-ml-week1)
 - [2주차 미션](https://godsman-yang.github.io/hongong-ml-week2)
+- [3주차 미션](https://godsman-yang.github.io/hongong-ml-week3)
