@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "혼자 공부하는 머신러닝 + 딥러닝 - 4주차 미션"
-date: 2021-02-28 23:30
+title: "혼자 공부하는 머신러닝 + 딥러닝 - 5주차 미션"
+date: 2021-02-28 23:20
 categories: [language, python, machine learning, deep learning]
 # os, windows, linux,
 # service, github
