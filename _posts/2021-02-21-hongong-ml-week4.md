@@ -10,10 +10,6 @@ categories: [language, python, machine learning, deep learning]
 author: godsman-yang
 ---
 
-- [5장](https://godsman-yang.github.io/hongong-ml-week4)
-- 교차 검증을 그림으로 설명하기
-- 5-3절 앙상블 모델 손코딩 코랩 화면 인증샷
-
 # 4 주차
 
 ## 기본 미션
