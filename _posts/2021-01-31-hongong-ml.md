@@ -66,5 +66,6 @@ categories: [language, python, machine learning, deep learning]
 - [3주차 미션](https://godsman-yang.github.io/hongong-ml-week3)
 - [4주차 미션](https://godsman-yang.github.io/hongong-ml-week4)
 - [5주차 미션](https://godsman-yang.github.io/hongong-ml-week5)
+- [6주차 미션](https://godsman-yang.github.io/hongong-ml-week6)
 
 ## 미션 외 자료 정리

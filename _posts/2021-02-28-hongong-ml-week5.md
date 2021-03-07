@@ -71,3 +71,4 @@ k-평균 알고리즘 소개
 - [3주차 미션](https://godsman-yang.github.io/hongong-ml-week3)
 - [4주차 미션](https://godsman-yang.github.io/hongong-ml-week4)
 - [5주차 미션](https://godsman-yang.github.io/hongong-ml-week5)
+- [6주차 미션](https://godsman-yang.github.io/hongong-ml-week6)
